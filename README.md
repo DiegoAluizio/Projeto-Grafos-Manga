@@ -32,3 +32,60 @@ O projeto pode ser enquadrado no objetivo de número 4 “Educação de Qualidad
 
 
 # Testes de Execução:
+![Print1](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print1.png)
+
+Ao iniciar o programa, o grafo está vazio
+
+
+![Print2](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print2.png)
+
+Mostrando o arquivo vazio
+
+
+![Print3](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print3.png)
+
+Inserindo dois vértices
+
+
+![Print4](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print4.png)
+
+Grafo após a inserção
+
+
+![Print5](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print5.png)
+
+Inserindo uma aresta e mostrando o resultado
+
+
+![Print6](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print6.png)
+
+Gravando grafo no arquivo e mostrando seu conteúdo
+
+
+![Print7](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print7.png)
+
+Conexidade do grafo
+
+
+![Print8](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print8.png)
+
+Inserindo um vértice para torná-lo desconexo
+
+
+![Print9](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print9.png)
+
+Removendo esse vértice
+
+
+![Print10](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print10.png)
+
+Grafo após remoção do vértice
+
+![Print11](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print11.png)
+
+Removendo aresta mostrando conteúdo do grafo
+
+
+![Print12](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print12.png)
+
+Encerrando o programa
