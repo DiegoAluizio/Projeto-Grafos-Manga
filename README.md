@@ -32,6 +32,8 @@ O projeto pode ser enquadrado no objetivo de número 4 “Educação de Qualidad
 
 
 # Testes de Execução:
+
+## Testes com um arquivo vazio:
 ![Print1](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print1.png)
 
 Ao iniciar o programa, o grafo está vazio
@@ -89,3 +91,38 @@ Removendo aresta mostrando conteúdo do grafo
 ![Print12](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print12.png)
 
 Encerrando o programa
+
+## Testes com parte do grafo modelado (a fim de evitar prints grandes):
+
+![Print13](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print13.png)
+
+Lendo um arquivo e mostrando o grafo
+
+
+![Print14](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print14.png)
+
+Removendo o vértice Action
+
+
+![Print15](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print15.png)
+
+Removendo a aresta 'Chainsaw Man-Shounen'
+
+
+![Print16](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print16.png)
+
+Gravando no arquivo e mostrando o conteúdo
+
+
+![Print17](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print17.png)
+
+Reinserindo o vértice Action
+
+
+![Print18](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print18.png)
+
+Inserindo a aresta 'Chainsaw Man-Action'
+
+![Print19](https://github.com/DiegoAluizio/Projeto-Grafos-Manga/blob/main/Imagens/print19.png)
+
+Conexidade do grafo
