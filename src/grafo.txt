@@ -1,0 +1,47 @@
+#Shounen
+
+Chainsaw Man;Shounen;Action;Comedy;Drama;Horror;Supernatural
+Attack on Titan;Shounen;Action;Drama;Fantasy;Mystery
+Jujutsu Kaisen;Shounen;Action;Drama;Supernatural
+One Piece;Shounen;Action;Adventure;Comedy;Fantasy
+Kimetsu no Yaiba;Shounen;Action;Adventure;Drama;Supernatural
+Boku no Hero;Shounen;Action;Adventure;Comedy;Drama;Fantasy
+Spy X Family;Shounen;Action;Comedy;Slice of Life;Supernatural
+Horimiya;Shounen;Comedy;Romance;Slice of Life
+Bleach;Shounen;Action;Adventure;Supernatural
+
+#Shoujo
+
+Ao Haru Ride;Shoujo;Comedy;Drama;Romance;Slice of Life
+Akatsuki no Yona;Shoujo;Action;Adventure;Drama;Fantasy;Romance
+Nana;Shoujo;Drama;Music;Romance;Slice of Life
+Orange;Shoujo;Drama;Romance;Sci-Fi
+Kaichou wa Maid-sama!;Shoujo;Comedy;Romance
+Kimi no Todoke;Shoujo;Comedy;Drama;Romance;Slice of Life
+Fruits Basket;Shoujo;Comedy;Drama;Psychological;Romance;Supernatural
+Yamada-kun to Lv999 no Koi wo Suru;Shoujo;Comedy;Drama;Romance
+Sakura Cardcaptor;Shoujo;Adventure;Comedy;Fantasy;Mahou Shoujo;Romance
+
+#Josei
+
+Wotakoi;Josei;Comedy;Romance;Slice of Life
+Tomie;Josei;Drama;Fantasy;Horror;Supernatural;Thriller
+My Broken Mariko;Josei;Drama;Psychological
+Chihayafuru;Josei;Drama;Romance;Sports
+Paradise Kiss;Josei;Drama;Romance
+Senpai ga Uzai Kouhai no Hanashi;Josei;Comedy;Romance;Slice of Life
+Koori Zokusei Danshi to Cool na Douryou Joshi;Josei;Comedy;Romance;Slice of Life;Supernatural
+Brutal Satsujin Keisatsukan no Kokuhaku;Josei;Drama;Mystery;Psychological
+Kuragehime;Josei;Comedy;Drama;Romance;Slice of Life
+
+#Seinen
+
+Berserk;Seinen;Action;Adventure;Drama;Fantasy;Horror;Psychological
+Tokyo Ghoul;Seinen;Action;Horror;Mystery;Psychological;Supernatural
+Boa Noite Punpun;Seinen;Drama;Psychological;Slice of Life
+One Punch Man;Seinen;Action;Comedy;Sci-Fi;Supernatural
+Vagabond;Seinen;Action;Adventure;Drama
+Vinland Saga;Seinen;Action;Adventure;Drama
+Kaguya-sama;Seinen;Comedy;Psychological;Romance;Slice of Life
+Monster;Seinen;Drama;Mystery;Psychological;Thriller
+Oshi no Ko;Seinen;Drama;Mystery;Psychological;Supernatural
