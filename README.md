@@ -1,4 +1,5 @@
 # Projeto de Teoria dos grafos: Recomendação de mangás
+## Diego Oliveira Aluizio, RA: 10402412
 # Link para o youtube: /placeholder/
 # Título: Manga Oracle
 
