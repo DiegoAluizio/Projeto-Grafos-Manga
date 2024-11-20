@@ -3,7 +3,9 @@
 # Link para o youtube: /placeholder/
 # Título: Manga Oracle
 
-O projeto visa modelar um sistema de recomendação de mangás em pequena escala, para testar a validade dos algoritmos para uma possível expansão. A modelagem do problema funciona da seguinte maneira:
+O projeto visa modelar um sistema de recomendação de mangás em pequena escala, para testar a validade dos algoritmos para uma possível expansão.
+
+# Modelagem:
 
 ## Demografias:
 No mercado editorial japonês, é comum decidir em qual revista um mangá será publicado levando em conta a idade e gênero do público-alvo imaginado. Desta forma, no grafo teremos os vértices Shounen, Seinen, Shoujo e Josei que têm como alvo, respectivamente, jovens garotos, jovens homens, jovens garotas e jovens mulheres.
