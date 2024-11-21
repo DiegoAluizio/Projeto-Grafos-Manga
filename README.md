@@ -2,6 +2,9 @@
 ## Diego Oliveira Aluizio, RA: 10402412
 # Link para o youtube:
 https://www.youtube.com/watch?v=fBgn1RRPibo
+
+# Parte 1 do projeto:
+
 # Título: Manga Oracle
 
 O projeto visa modelar um sistema de recomendação de mangás em pequena escala, para testar a validade dos algoritmos para uma possível expansão.
